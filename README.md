@@ -21,7 +21,7 @@
 <!-- Give credit (and a link) to other people or resources that helped you build this application. -->
 
 
-Name of feature: ___WRRC Cycle_____________________________
+Name of feature: WRRC Cycle
 
 Estimate of time needed to complete: __1 hr___
 
@@ -33,6 +33,29 @@ Actual time needed to complete: __1 hr___
 
 ![WRRC](https://user-images.githubusercontent.com/65520470/136142750-50e03eba-1176-4c87-8c39-f39e0d875d78.jpg)
 
+Name of feature: Building an API server, that provides data for the City Explorer front-end application
+
+Estimate of time needed to complete: Maybe a day
+
+Start time: Sunday 10/10/21
+
+Finish time: 10/14/21
+
+Actual time needed to complete: couple of days
+
+![Lab06](https://user-images.githubusercontent.com/65520470/137404986-a026faed-394c-4b7d-bec7-a3cbf4a47b9a.jpeg)
+
+Name of feature: Will show live weather and movie data in response to City Explorer searches. 
+
+Estimate of time needed to complete: a day or so
+
+Start time: 10/13/21
+
+Finish time: __________________
+
+Actual time needed to complete: _____________________
+
+![Lab08](https://user-images.githubusercontent.com/65520470/137405067-239440a2-bc11-471b-aa6c-77cbb5bb37cf.jpeg)
 
 
 
