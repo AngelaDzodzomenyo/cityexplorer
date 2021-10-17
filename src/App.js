@@ -87,7 +87,6 @@ class App extends React.Component {
     console.log(this.state.movieLocation)
     return (
       <>
-      <Button variant="success">test</Button>
       <Container>
       <Form>
         <h1>
