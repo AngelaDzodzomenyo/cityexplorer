@@ -6,6 +6,7 @@ import Button from 'react-bootstrap/Button';
 import City from './City';
 import Weather from './weather';
 import Movies from './movies';
+import 'bootstrap/dist/css/bootstrap.min.css';
 
 class App extends React.Component {
   constructor(props) {
@@ -96,7 +97,7 @@ class App extends React.Component {
           <Form.Control onChange={(event) => this.handleChange(event)} value={this.state.searchForCity} placeholder="ex. Seattle" />
         </h2>
         <div>
-          <Button variant="primary" onClick={this.getLocation}>Explore!</Button>
+          <Button variant="success" onClick={this.getLocation}>Explore!</Button>
         </div>
       </Form>
         <City 
