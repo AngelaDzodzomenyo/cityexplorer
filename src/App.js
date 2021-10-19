@@ -97,7 +97,7 @@ class App extends React.Component {
           <Form.Control onChange={(event) => this.handleChange(event)} value={this.state.searchForCity} placeholder="ex. Seattle" />
         </h2>
         <div>
-          <Button variant="success" onClick={this.getLocation}>Explore!</Button>
+          <Button variant="info" onClick={this.getLocation}>Explore!</Button>
         </div>
       </Form>
         <City 
